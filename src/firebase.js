@@ -2,12 +2,12 @@ import * as firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDU4QV60QJ3DGB-k8Vb8bpe61OGxhh6dPE",
-  authDomain: "chatter-beb4b.firebaseapp.com",
-  projectId: "chatter-beb4b",
-  storageBucket: "chatter-beb4b.appspot.com",
-  messagingSenderId: "557015556382",
-  appId: "1:557015556382:web:f65b2eefeb9a9b220fa90f"
+  apiKey: "AIzaSyCuSXWePIyCr0wvq2fPttAsu7LCyXquIaA",
+  authDomain: "chatter-a1c17.firebaseapp.com",
+  projectId: "chatter-a1c17",
+  storageBucket: "chatter-a1c17.appspot.com",
+  messagingSenderId: "1087189772618",
+  appId: "1:1087189772618:web:a5cd80dcd07a43ed8ab9b3"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
